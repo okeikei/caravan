@@ -29,7 +29,7 @@ main {
 
 .step-img1 {
   height: 150px;
-  background-image: url(caravan-master/img/flow01.png);
+  background-image: url(https://raw.githubusercontent.com/okeikei/caravan/master/img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
