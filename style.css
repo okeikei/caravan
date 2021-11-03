@@ -36,14 +36,14 @@ main {
 
 .step-img2 {
   height: 150px;
-  background-image: url(caravan-master/img/flow02.png);
+  background-image: url(https://raw.githubusercontent.com/okeikei/caravan/master/img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .step-img3 {
   height: 150px;
-  background-image: url(caravan-master/img/flow03.png);
+  background-image: url(https://raw.githubusercontent.com/okeikei/caravan/master/img/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
